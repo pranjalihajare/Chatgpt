@@ -21,5 +21,7 @@ import {
     model: "gemini-1.5-flash",
     safetySetting,
   });
+   
+   
   
   export default model;

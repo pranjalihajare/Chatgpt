@@ -8,7 +8,7 @@ import ChatPage from "./routes/chatPage/ChatPage";
 import RootLayout from "./layouts/rootLayout/RootLayout";
 import DashboardLayout from "./layouts/dashboardLayout/DashboardLayout";
 import SignInPage from "./routes/signInPage/signinPage";
-
+import SignUpPage from "./routes/signUpPage/signUpPage";
 
 
 

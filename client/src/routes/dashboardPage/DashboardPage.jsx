@@ -12,7 +12,7 @@ const DashboardPage = () => {
 
   const mutation = useMutation({
     mutationFn: (text) => {
-      return fetch(`${BASE_URL}/api/chats`, {
+      return fetch(`${BASE_URL}/api/chats/${data._id}`, {
         method: "POST",
         credentials: "include",
         headers: {

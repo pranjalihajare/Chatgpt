@@ -8,9 +8,9 @@ const Homepage = () => {
 
   return (
     <div className="homepage">
-      <img src="/orbital.png" alt="" className="orbital" />
+      {/* <img src="/orbital.png" alt="" className="orbital" /> */}
       <div className="left">
-        <h1>CHAT AI</h1>
+        <h1>CONVO AI</h1>
         <h2>Supercharge your creativity and productivity</h2>
         <h3>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat sint
